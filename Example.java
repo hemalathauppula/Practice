@@ -9,6 +9,8 @@ public class Example
     System.out.println("Before swapping");
     System.out.println("a:"+a+",b:"+b);
     System.out.println("Creating new branch");
+    System.out.println("Checking conflict senario");
+
   }
 }
   
