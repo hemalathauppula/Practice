@@ -8,6 +8,7 @@ public class Example
     b=20;
     System.out.println("Before swapping");
     System.out.println("a:"+a+",b:"+b);
+    System.out.println("Creating new branch");
   }
 }
   
