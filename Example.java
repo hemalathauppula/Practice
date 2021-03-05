@@ -6,6 +6,7 @@ public class Example
     int b;
     a=10;
     b=20;
+    System.out.println("Before swapping");
     System.out.println("a:"+a+",b:"+b);
   }
 }
